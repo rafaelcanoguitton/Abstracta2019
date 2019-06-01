@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1559380476 source:c:\users\rafxar\desktop\rsa_jean\main.cpp
+	<fstream>
+	<NTL/ZZ.h>
+	<iostream>
+	"rsa.h"
+	<stdlib.h>
+	<string.h>
+
+1559372135 c:\users\rafxar\desktop\rsa_jean\include\rsa.h
+	<sstream>
+	<NTL/ZZ.h>
+	<iostream>
+	"string"
+	<cstdlib>
+
+1559380348 source:c:\users\rafxar\desktop\rsa_jean\src\rsa.cpp
+	"rsa.h"
+	"euclides.h"
+
+1559377209 c:\users\rafxar\desktop\rsa_jean\include\euclides.h
+	<NTL/ZZ.h>
+	<iostream>
+	<vector>
+
+1559380476 source:c:\users\alf\desktop\rsa_jean\main.cpp
+	<fstream>
+	<NTL/ZZ.h>
+	<iostream>
+	"rsa.h"
+	<stdlib.h>
+	<string.h>
+
+1559372135 c:\users\alf\desktop\rsa_jean\include\rsa.h
+	<sstream>
+	<NTL/ZZ.h>
+	<iostream>
+	"string"
+	<cstdlib>
+
+1559380348 source:c:\users\alf\desktop\rsa_jean\src\rsa.cpp
+	"rsa.h"
+	"euclides.h"
+
+1559377209 c:\users\alf\desktop\rsa_jean\include\euclides.h
+	<NTL/ZZ.h>
+	<iostream>
+	<vector>
+
